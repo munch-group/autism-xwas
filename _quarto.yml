@@ -44,10 +44,10 @@ book:
       chapters:
       # (the same files must be listed _quarto-slides.yml to render as slides)
       - slides/index.qmd 
-    - part: "Thesis"
+    - part: "Manuscript"
       chapters:
       # (the same files must be listed _quarto-slides.yml to render as slides)
-      - thesis/index.qmd 
+      - manuscript/index.qmd 
   downloads: [pdf]
      
 bibliography: references.bib
