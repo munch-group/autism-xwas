@@ -3,7 +3,6 @@ project:
   post-render: 
     # - quarto render --profile slides
     - quarto render slides/
-    - quarto render thesis/
     - quarto render manuscript/
 
 execute:
